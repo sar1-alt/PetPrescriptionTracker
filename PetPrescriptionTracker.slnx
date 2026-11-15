@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="PetService/PetService.csproj" />
+  <Project Path="PrescriptionService/PrescriptionService.csproj" />
+  <Project Path="RefillService/RefillService.csproj" />
+</Solution>
